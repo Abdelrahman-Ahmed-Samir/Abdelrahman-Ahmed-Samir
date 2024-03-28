@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my ML projects are available here
 
-- 💬 Ask me about **Machine Learning , Deep Learning , Autonomous Agents**
+- 💬 Ask me about **Machine Learning , Deep Learning ,Active Learning , Autonomous Agents**
 
 - 📫 How to reach me **bedosamir48@gmail.com**
 
