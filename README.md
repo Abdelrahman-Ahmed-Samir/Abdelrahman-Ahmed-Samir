@@ -7,7 +7,7 @@
 
 - 🔭 I’m a graduate from **Faculty of Computers and Artificial Intelligence-Cairo University**
 
-- 🌱 I’m currently learning **Machine Learning , Deep Learning**
+- 🌱 I’m currently learning **GAN**
 
 - 👯 I’m looking to collaborate on **other projects**
 
