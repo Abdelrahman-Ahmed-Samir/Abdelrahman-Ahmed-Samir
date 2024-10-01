@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **other projects**
 
-- 👨‍💻 All of my ML projects are available here
+- 👨‍💻 All of my projects are available here
 
 - 💬 Ask me about **Machine Learning , Deep Learning ,Active Learning , Autonomous Agents**
 
