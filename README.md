@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdelrahman-ahmed-samir" alt="abdelrahman-ahmed-samir" /></a> </p>
 
-- 🔭 I’m a graduate from **Faculty of Computers and Artificial Intelligence**
+- 🔭 I’m a graduate from **Faculty of Computers and Artificial Intelligence-Cairo University**
 
 - 🌱 I’m currently learning **Machine Learning , Deep Learning**
 
